@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/opt/RM_tasks/XJTU-RMV-Task02/opencv_project/build",
-  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/OpenCV_Project.dir/src/main.cpp.o -c /opt/RM_tasks/XJTU-RMV-Task02/opencv_project/src/main.cpp",
-  "file": "/opt/RM_tasks/XJTU-RMV-Task02/opencv_project/src/main.cpp"
-}
-]

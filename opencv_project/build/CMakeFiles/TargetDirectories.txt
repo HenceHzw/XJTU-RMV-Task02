@@ -1,3 +1,0 @@
-/opt/RM_tasks/XJTU-RMV-Task02/opencv_project/build/CMakeFiles/OpenCV_Project.dir
-/opt/RM_tasks/XJTU-RMV-Task02/opencv_project/build/CMakeFiles/edit_cache.dir
-/opt/RM_tasks/XJTU-RMV-Task02/opencv_project/build/CMakeFiles/rebuild_cache.dir
